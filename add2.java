@@ -9,5 +9,6 @@ class Main {
     int sum = first + second;
     System.out.println(first + " + " + second + " = "  + sum);
     System.out.println("NOW my changes should be reflected");
+    System.out.println("One extra change just to see if build occurs again");
   }
 }
